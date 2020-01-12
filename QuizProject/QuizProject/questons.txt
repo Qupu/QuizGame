@@ -1,0 +1,16 @@
+How may letters are there in a BANANA?;4;5;3;6;6
+Which of these is not not a fruit?;Bacon;Lettuce;Apple;Pinenut;Apple
+What is the name of the network of computers from which the Internet has emerged?;Webnet;Arpanet;Wholenet;Google;Arpanet
+In what year was Google launched on the web?;1999;2000;1998;1996;1998
+What is the country top-level domain of Belgium?;.fi;.com;.bz;.be;.be
+Which unit is an indication for the sound quality of MP3?;Kbps;Mbps;Tbps;Gbps;Kbps
+In computing what is RAM short for?;Random Access Memory;Reality Access Manipulation;Room Access Missing;Rockstar Auto Music;Random Access Memory
+In which Nintendo DS game do you have to raise a puppy as well as possible?;SMB;Link;Nintendogs;Tetris;Nintendogs
+What does USB stand for in the computer world?;Universal Serial Bus;University Switch Branch;Utility Service Beacon;Urban Series Bacon;Universal Serial Bus
+What color is cobalt?;Red;Blue;Yellow;Black;Blue
+What is the organ that is affected when one is suffering from hepatitis?;Heart;Lungs;Liver;Skin;Liver
+Which planet is nearest the sun?;Earth;Mercury;Venus;Mars;Mercury
+What is 1+1?;3;10;8;5;10
+What is 2+2?;1;2;3;4;4
+What is the boiling point of water?;50;120;75;100;100What is the number of the beast?;222;444;666;888;666
+How to make mayonnaise?;egg+oil;milk+flour;water+sugar;butter+sugar;egg+oil
